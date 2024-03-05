@@ -5,3 +5,4 @@
 *.xls
 convert_pdf_to_db/.DS_Store
 convert_pdf_to_db/data/.DS_Store
+.DS_Store
